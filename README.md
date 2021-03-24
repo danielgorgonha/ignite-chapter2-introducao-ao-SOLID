@@ -49,6 +49,23 @@ yarn dev
   <img src="./assets/test.png">
 </p>
 
+### Documentações com Swagger
+## O que foi documentado?
+
+Neste desafio foi documentado as entradas e saídas da API. Abaixo os principais pontos documentado:
+
+- Informações gerais da API (nome, descrição, etc.);
+- Rotas;
+- Parâmetros;
+- Corpo da Requisição;
+- Respostas de sucesso;
+- Respostas de erro;
+- Exemplos;
+
+<p align="center">
+  <img src="./assets/api-docs.png">
+</p>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt) para mais detalhes.

@@ -63,7 +63,7 @@ Neste desafio foi documentado as entradas e saídas da API. Abaixo os principais
 - Exemplos;
 
 <p align="center">
-  <img src="./assets/api-docs.png">
+  <img src="./assets/api-docs-new.png">
 </p>
 
 ## :memo: Licença
